@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Janidu
+Undergraduate in Computing and Information Systems at Sabaragamuwa University of Sri Lanka  
+🌱 Currently learning Java, Web Development, and Ballerina 
 
-<!--
-**janiya582/janiya582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Projects
+- 🏨 [Hotel Booking Website](https://github.com/janidu123/HotelBooking)  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Janidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=janidu123&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+- Email: janiduviduranga78@gmail.com  
+
+
