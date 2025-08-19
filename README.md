@@ -12,7 +12,7 @@ Undergraduate in Computing and Information Systems at Sabaragamuwa University of
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
-![Janidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=janidu123&show_icons=true&theme=radical)
+![Janidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=janiya582&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - Email: janiduviduranga78@gmail.com  
